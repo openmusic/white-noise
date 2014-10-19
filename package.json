@@ -1,0 +1,25 @@
+{
+  "name": "openmusic-white-noise",
+  "version": "1.0.0",
+  "description": "Function to generate n samples of white noise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmusic/white-noise"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "white",
+    "noise"
+  ],
+  "author": "sole",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/openmusic/white-noise/issues"
+  },
+  "homepage": "https://github.com/openmusic/white-noise"
+}
