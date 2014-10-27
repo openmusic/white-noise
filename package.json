@@ -1,6 +1,6 @@
 {
   "name": "openmusic-white-noise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function to generate n samples of white noise",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/openmusic/white-noise/issues"
   },
   "homepage": "https://github.com/openmusic/white-noise",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.8.9",
     "gulp-browserify": "^0.5.0",
     "gulp-rename": "^1.2.0",
